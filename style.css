@@ -1,0 +1,11 @@
+.imagen{
+    text-align: center;
+    width: 800px;
+    height: 500px;
+    border: 2px solid purple;
+}
+
+.img{
+    width: 800px;
+    height: 500px;
+}
